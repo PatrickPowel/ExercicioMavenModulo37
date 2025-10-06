@@ -1,2 +1,2 @@
 # ExercicioMavenModulo37
-Exercicio Maven com Java
+Exercicio37 instalando depedencias no Java com Maven, criando primeiro projeto e rodando...
